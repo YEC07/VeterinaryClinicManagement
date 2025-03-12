@@ -1,0 +1,6 @@
+@VeterinaryClinic.API_HostAddress = http://localhost:5030
+
+GET {{VeterinaryClinic.API_HostAddress}}/vetclinic/
+Accept: application/json
+
+###
